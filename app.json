@@ -1,0 +1,12 @@
+{
+  "description": "A barebones Node.js app using Express 4",
+  "image": "heroku/nodejs",
+  "keywords": [
+    "node",
+    "express",
+    "static"
+  ],
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "name": "Start on Heroku: Node.js",
+  "repository": "https://github.com/heroku/node-js-getting-started"
+}
